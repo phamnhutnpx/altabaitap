@@ -1,2 +1,6 @@
-# How to do this tutorial ? 
-- You can create another react-typescript from your local machine then follow the tutorial on Dev.TO or you can choose to fork this commit. Adding more reducer and actionCreators to it then create a pull request. I will see and merge this. :> Both works fine. But I recommend you to create your own because you will have to go thourgh setting up from scratch and that give you a better understanding. 
+# Bài tập 1
+Sử dụng Firebase cho ReactJS + Typescript để tạo các API có lưu các dummy data và sử dụng redux để thực hiện việc load data từ firebase vào các component
+
+## Nội dung
+- Dữ liệu blog được lưu ở firebase
+- Người dùng muốn xem blog thì nhập id blog hoặc có thể không nhập id thì xem tất cả blog
